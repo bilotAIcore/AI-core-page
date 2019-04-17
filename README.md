@@ -14,17 +14,31 @@ The Bilot <b>AI-core</b> is basically a collection of code, which facilitates ro
 The benefits of Bilot <b>AI-core</b> are the following. It speeds up AI/ML development, as all the code is mostly provided. This directly minimizes coding erros (reusable modules) and useless iterations. It is a solid framework for a multiple different ML-problems (business point-of-view). Coming in the form of open-source code, it offers limitless flexibility to the user-–modify as much as you like. As a consequence, while we might hold the best understanding of the framework, there is basically no vendor lock.
 </p>
 
+----
 
 ### Features
 <p style='text-align: justify;'>
-<b>AI-core</b> provides capabilities for end-to-end development of machine leartning projects. 
+<b>AI-core</b> provides capabilities for end-to-end development of machine leartning projects. The functionality is built into <i>modules</i> (collections of functions) that are used to: 
 </p>
+<ul>
+  <li>take care of data connections (e.g., from local files or remote SQL server)</li>
+  <li>retrieve data from source and make prepocessing</li>
+  <li>train user-specified models</li>
+  <li>write execution logs</li>
+  <li>version traind models</li>
+  <li>deployment, e.g., via predictive API service</li>
+</ul>
+
 
 ![](features.png)
+
+----
 
 ### Workflow
 
 ![](workflow.png)
+
+----
 
 ### Interested?
 
