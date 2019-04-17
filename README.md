@@ -1,7 +1,6 @@
-## Welcome to Bilot AI-core
 
 <br><br>
-### What is AI-core?
+## What is AI-core?
 
 <p style='text-align: justify;'>
 We wanted to do our own AI-projects faster and with fewer errors. Also, coding same things over and over again is quite stupid and boring. We also felt that the maintenance and development of multiple AI/ML-environments needs a coherent solution. We also wanted to create a solution which bends into several different business problems (e.g. IoT, Customer analytics). These factors led us to develop a "platform" that we call <b>AI-core</b>.
@@ -22,7 +21,7 @@ Last, but not least, the <b>AI-core</b> can be set up to any environment; this i
 ----
 
 <br><br>
-### Features
+## Features
 <p style='text-align: justify;'>
 <b>AI-core</b> provides capabilities for end-to-end development of machine leartning projects. The functionality is built into <i>modules</i> (collections of functions) that are used to: 
 </p>
@@ -44,7 +43,7 @@ Last, but not least, the <b>AI-core</b> can be set up to any environment; this i
 ----
 
 <br><br>
-### Workflow
+## Workflow
 <p style='text-align: justify;'>
 In more detail, the workflow of ML project is about running routines that automatically perform the necessary steps of data processing, modelling and model optimisation, output handling, versioning, and deployment. 
 The user has also manual control over the different parts of the workflow, by configuring settings files. 
@@ -58,7 +57,7 @@ The user has also manual control over the different parts of the workflow, by co
 ----
 
 <br><br>
-### Use-cases
+## Use-cases
 <p style='text-align: justify;'>
 <b>AI-core</b> can be used (at present) for problems considering structured data. Most of the functionality is built for <i>supervised learning</i> problems (classification & regression), but also clustering, anomaly detection and time-series forecasting are possible. These methods lend themselves to various business problems in different industries. 
 </p>
@@ -72,6 +71,6 @@ The user has also manual control over the different parts of the workflow, by co
 ----
 
 <br><br>
-### Interested?
+## Interested?
 
 Contact Bilot Sales: sales@bilot.fi
