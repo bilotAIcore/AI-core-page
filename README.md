@@ -55,7 +55,14 @@ The user has also manual control over the different parts of the workflow, by co
 ----
 
 ### Use-cases
+<p style='text-align: justify;'>
+<b>AI-core</b> can be used (at present) for problems considering structured data. Most of the functionality is built for <i>supervised learning</i> problems (classification & regression), but also clustering, anomaly detection and time-series forecasting are possible. These methods lend themselves to various business problems in different industries. 
+</p>
 
+![](cases.png)
+<p style='text-align: center;'>
+  <i>Some examples of use-cases that can be solved with AI-core.</i>
+</p>
 
 
 ----
