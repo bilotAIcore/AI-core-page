@@ -30,7 +30,7 @@ Last, but not least, the <b>AI-core</b> can be set up to any environment; this i
   <li>retrieve data from source and make prepocessing</li>
   <li>train user-specified models</li>
   <li>write execution logs</li>
-  <li>version traind models</li>
+  <li>version trained models</li>
   <li>deployment, e.g., via predictive API service</li>
 </ul>
 
