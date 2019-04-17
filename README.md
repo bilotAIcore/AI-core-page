@@ -31,12 +31,21 @@ The benefits of Bilot <b>AI-core</b> are the following. It speeds up AI/ML devel
 
 
 ![](features.png)
+<p style='text-align: center;'>
+  <i>End-to-end development of Machine Learning projects.</i>
+</p>
 
 ----
 
 ### Workflow
+<p style='text-align: justify;'>
+In more detail, the workflow of ML project is about running routines that automatically perform the necessary steps of <span style="background-color: 'balck'">data processing.</span>
+</p>
 
 ![](workflow.png)
+<p style='text-align: center;'>
+  <i>Typical AI-core workflow.</i>
+</p>
 
 ----
 
