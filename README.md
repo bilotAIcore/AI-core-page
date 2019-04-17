@@ -1,5 +1,6 @@
 ## Welcome to Bilot AI-core
 
+<br></br>
 ### What is AI-core?
 
 <p style='text-align: justify;'>
@@ -20,6 +21,7 @@ Last, but not least, the <b>AI-core</b> can be set up to any environment; this i
 
 ----
 
+<br></br>
 ### Features
 <p style='text-align: justify;'>
 <b>AI-core</b> provides capabilities for end-to-end development of machine leartning projects. The functionality is built into <i>modules</i> (collections of functions) that are used to: 
@@ -41,6 +43,7 @@ Last, but not least, the <b>AI-core</b> can be set up to any environment; this i
 
 ----
 
+<br></br>
 ### Workflow
 <p style='text-align: justify;'>
 In more detail, the workflow of ML project is about running routines that automatically perform the necessary steps of data processing, modelling and model optimisation, output handling, versioning, and deployment. 
@@ -54,6 +57,7 @@ The user has also manual control over the different parts of the workflow, by co
 
 ----
 
+<br></br>
 ### Use-cases
 <p style='text-align: justify;'>
 <b>AI-core</b> can be used (at present) for problems considering structured data. Most of the functionality is built for <i>supervised learning</i> problems (classification & regression), but also clustering, anomaly detection and time-series forecasting are possible. These methods lend themselves to various business problems in different industries. 
@@ -67,6 +71,7 @@ The user has also manual control over the different parts of the workflow, by co
 
 ----
 
+<br></br>
 ### Interested?
 
 Contact Bilot Sales: sales@bilot.fi
