@@ -15,7 +15,7 @@ The benefits of Bilot <b>AI-core</b> are the following. It speeds up AI/ML devel
 </p>
 
 <p style='text-align: justify;'>
-Last, but not least, the <b>AI-core</b> can be set up to any environment; this is fully up to the users/customers preferences.  
+Last, but not least, the <b>AI-core</b> can be set up to any environment; this is fully up to the users/customers preferences. The set-up is very simple, whether the target is an on-premise machine, virtual machine, or cloud platform.   
 </p>
 
 ----
@@ -51,6 +51,12 @@ The user has also manual control over the different parts of the workflow, by co
 <p style='text-align: center;'>
   <i>Typical AI-core workflow.</i>
 </p>
+
+----
+
+### Use-cases
+
+
 
 ----
 
