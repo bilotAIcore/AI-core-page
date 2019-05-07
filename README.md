@@ -67,6 +67,13 @@ The user has also manual control over the different parts of the workflow, by co
   <i>Some examples of use-cases that can be solved with AI-core.</i>
 </p>
 
+----
+
+<br><br>
+## Roadmap
+<p style='text-align: justify;'>
+The capabilities of Bilot <b>AI-core</b> are under constant development, driven by customer-specific needs. Presently, we are working hard to offer b>AI-core</b> on top of <a href="https://azure.microsoft.com/en-us/services/databricks/"><b>DataBricks</b></a>. Stay tuned!
+</p>
 
 ----
 
