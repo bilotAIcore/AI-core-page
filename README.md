@@ -73,7 +73,9 @@ The user has also manual control over the different parts of the workflow, by co
 ## Platforms
 <p style='text-align: justify;'>
   Presently, <b>AI-core</b> is available as two separate solutions: 
+  
   1. "on-premice" version, written in <b>R</b>. This version can be used either on local- or virtual machines. 
+  
   2. cloud version, built on top of <a href="https://azure.microsoft.com/en-us/services/databricks/"><b>Azure DataBricks</b></a>, written in <b>Python</b>. In more detail, this version utilizes the capabilities of Spark and <a href="https://www.h2o.ai/">H2O</a> to crunch data into models. All output is automatically stored into Azure Storage (and optionally also to SQL-DB of choice) and trained models are managed with <a href="https://mlflow.org/">MLflow</a>, which in turn communicates with <a href="https://azure.microsoft.com/en-in/services/machine-learning-service/">Azure ML Service</a> for model deployment. Moreover, the <b>AI-core</b> can be embedded into Data Factory to set up automated machine learning pipelines.
 </p>
 
